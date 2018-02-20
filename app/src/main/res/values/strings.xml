@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- HarleyDroid: Harley Davidson J1850 Data Analyser for Android.
+
+     Copyright (C) 2010-2012 Stelian Pop <stelian@popies.net>
+
+     This program is free software: you can redistribute it and/or modify
+     it under the terms of the GNU General Public License as published by
+     the Free Software Foundation, either version 3 of the License, or
+     (at your option) any later version.
+
+     This program is distributed in the hope that it will be useful,
+     but WITHOUT ANY WARRANTY; without even the implied warranty of
+     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+     GNU General Public License for more details.
+
+     You should have received a copy of the GNU General Public License
+     along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+
+<resources>
+
+<string name="app_name">Splunkin My Harley</string>
+<string name="dashboard_name">Splunkin My Harley</string>
+<string name="diagnostics_name">Diagnostics</string>
+<string name="settings_name">Settings</string>
+
+<string name="toast_nobluetooth">Sorry, your device doesn\'t support bluetooth</string>
+<string name="toast_errorenablebluetooth">Unable to enable Bluetooth</string>
+<string name="toast_connecting">Connecting to interface&#8230;</string>
+<string name="toast_errorconnecting">Error connecting to interface</string>
+<string name="toast_connected">Connected to interface</string>
+<string name="toast_nodata">No data from interface</string>
+<string name="toast_toomanyerrors">Too many communication errors, aborting&#8230;</string>
+<string name="toast_errorlogging">Unable to write logs to external storage</string>
+<string name="toast_errorat">Error configuring ELM327</string>
+<string name="toast_autorecon">Reconnecting in %s seconds</string>
+
+<string name="rpm_label">RPM:</string>
+<string name="speed_imperial_label">Speed (mph):</string>
+<string name="speed_metric_label">Speed (km/h):</string>
+<string name="enginetemp_imperial_label">Engine T° (°F):</string>
+<string name="enginetemp_metric_label">Engine T° (°C):</string>
+<string name="fuelgauge_label">Fuel gauge:</string>
+<string name="turnsignals_label">Turn signals:</string>
+<string name="neutral_label">Neutral:</string>
+<string name="clutch_label">Clutch:</string>
+<string name="gear_label">Gear:</string>
+<string name="checkengine_label">Check Engine:</string>
+<string name="odometer_imperial_label">Distance (miles):</string>
+<string name="odometer_metric_label">Distance (km):</string>
+<string name="fuel_imperial_label">Fuel (gal):</string>
+<string name="fuel_metric_label">Fuel (ml):</string>
+<string name="fuelavg_imperial_label">Mil. (MPG):</string>
+<string name="fuelavg_metric_label">Mil. (l/100km):</string>
+<string name="fuelinst_imperial_label">Inst. (MPG):</string>
+<string name="fuelinst_metric_label">Inst. (l/100km):</string>
+<string name="vin_label">VIN:</string>
+<string name="ecmpn_label">ECM P/N:</string>
+<string name="ecmcalid_label">ECM Calib.:</string>
+<string name="ecmswlevel_label">ECM Version:</string>
+<string name="currentdtc_label">DTC\n(current):</string>
+<string name="historicdtc_label">DTC\n(historic):</string>
+
+<string name="connect_label">Start capture</string>
+<string name="disconnect_label">Stop capture</string>
+<string name="preferences_label">Preferences</string>
+<string name="mode_labelraw">Text mode</string>
+<string name="mode_labelgr">Graphic mode</string>
+<string name="dash_label">Dashboard mode</string>
+<string name="diag_label">Diagnostic mode</string>
+<string name="resetcounters_label">Reset</string>
+<string name="about_label">About</string>
+
+<string name="cleardtc_label">Clear historic DTC</string>
+
+<string name="notification_label">HarleyDroidService</string>
+<string name="notification_connecting">Connecting&#8230;</string>
+<string name="notification_connected">Connected</string>
+<string name="notification_polling">Polling&#8230;</string>
+<string name="notification_diagnostics">Receiving diagnostic data&#8230;</string>
+<string name="notification_autorecon">Reconnecting in a few seconds&#8230;</string>
+
+<string name="check_engine">Check Engine</string>
+<string name="turn_left">Turn Left</string>
+<string name="turn_right">Turn Right</string>
+<string name="low_fuel">Tank empty</string>
+<string name="low_fuel_text">Empty</string>
+
+<string name="pref_interfacetype">Interface type</string>
+<string-array name="pref_interfacetype_names">
+	<item>"ELM327"</item>
+	<item>"HarleyDroidInterface"</item>
+</string-array>
+<string-array name="pref_interfacetype_values">
+	<item>"elm327"</item>
+	<item>"hdi"</item>
+</string-array>
+<string name="pref_bluetoothdev">Bluetooth device</string>
+<string name="pref_autoconnect">Autoconnect on startup</string>
+<string name="pref_autoreconnect">Auto reconnect if disconnected</string>
+<string name="pref_reconnectdelay">Delay before reconnect (seconds)</string>
+<string name="pref_seconds">seconds</string>
+<string name="pref_logging">Log to external media</string>
+<string name="pref_gps">Add GPS data to log</string>
+<string name="pref_lograw">Add raw J1850 data to log</string>
+<string name="pref_logunknown">Add unknown J1850 data to log</string>
+<string name="pref_screenon">Keep the screen on</string>
+<string name="pref_unit">Unit system</string>
+<string-array name="pref_unit_names">
+	<item>"Metric"</item>
+	<item>"Imperial"</item>
+</string-array>
+<string-array name="pref_unit_values">
+	<item>"metric"</item>
+	<item>"imperial"</item>
+</string-array>
+<string name="pref_orientation">Screen orientation</string>
+<string-array name="pref_orientation_names">
+	<item>"Auto"</item>
+	<item>"Portrait"</item>
+	<item>"Landscape"</item>
+	<item>"Reverse portrait"</item>
+	<item>"Reverse landscape"</item>
+</string-array>
+<string-array name="pref_orientation_values">
+	<item>"auto"</item>
+	<item>"portrait"</item>
+	<item>"landscape"</item>
+	<item>"reversePortrait"</item>
+	<item>"reverseLandscape"</item>
+</string-array>
+
+<string name="eula_title">License</string>
+<string name="eula_accept">Accept</string>
+<string name="eula_refuse">Refuse</string>
+
+<string name="about_copyright">&#169;2010&#8211;2012 Stelian Pop</string>
+<string name="about_version">Version:</string>
+<string name="about_unknown">unknown</string>
+<string name="about_support">Support:</string>
+<string name="about_weburl">github.com/stelian42/HarleyDroid</string>
+<string name="about_notendorsed">HarleyDroid is not endorsed or certified by the Harley-Davidson Motor Company.</string>
+<string name="about_needelm327">This application requires a custom interface connected to the motorcycle diag bus.</string>
+<string name="about_ok">OK</string>
+<string name="about_license">License</string>
+
+</resources>

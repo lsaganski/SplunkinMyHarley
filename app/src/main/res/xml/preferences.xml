@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- HarleyDroid: Harley Davidson J1850 Data Analyser for Android.
+
+     Copyright (C) 2010-2012 Stelian Pop <stelian@popies.net>
+
+     This program is free software: you can redistribute it and/or modify
+     it under the terms of the GNU General Public License as published by
+     the Free Software Foundation, either version 3 of the License, or
+     (at your option) any later version.
+
+     This program is distributed in the hope that it will be useful,
+     but WITHOUT ANY WARRANTY; without even the implied warranty of
+     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+     GNU General Public License for more details.
+
+     You should have received a copy of the GNU General Public License
+     along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference
+        android:title="@string/pref_interfacetype"
+        android:persistent="true"
+        android:entries="@array/pref_interfacetype_names"
+        android:entryValues="@array/pref_interfacetype_values"
+        android:defaultValue="elm327"
+        android:key="interfacetype" />
+    <ListPreference
+        android:title="@string/pref_bluetoothdev"
+        android:persistent="true"
+        android:key="bluetoothid" />
+    <CheckBoxPreference
+        android:title="@string/pref_autoconnect"
+        android:persistent="true"
+        android:defaultValue="false"
+        android:key="autoconnect" />
+    <CheckBoxPreference
+        android:title="@string/pref_autoreconnect"
+        android:persistent="true"
+        android:defaultValue="false"
+        android:key="autoreconnect" />
+    <EditTextPreference
+        android:title="@string/pref_reconnectdelay"
+        android:inputType="number"
+        android:dependency="autoreconnect"
+        android:persistent="true"
+        android:defaultValue="30"
+        android:key="reconnectdelay" />
+    <CheckBoxPreference
+        android:title="@string/pref_logging"
+        android:persistent="true"
+        android:defaultValue="false"
+        android:key="logging" />
+    <CheckBoxPreference
+        android:title="@string/pref_gps"
+        android:dependency="logging"
+        android:persistent="true"
+        android:defaultValue="false"
+        android:key="gps" />
+    <CheckBoxPreference
+        android:title="@string/pref_lograw"
+        android:dependency="logging"
+        android:persistent="true"
+        android:defaultValue="false"
+        android:key="lograw" />
+    <CheckBoxPreference
+        android:title="@string/pref_logunknown"
+        android:dependency="logging"
+        android:persistent="true"
+        android:defaultValue="false"
+        android:key="logunknown" />
+    <CheckBoxPreference
+        android:title="@string/pref_screenon"
+        android:persistent="true"
+        android:defaultValue="false"
+        android:key="screenon" />
+    <ListPreference
+        android:title="@string/pref_unit"
+        android:persistent="true"
+        android:entries="@array/pref_unit_names"
+        android:entryValues="@array/pref_unit_values"
+        android:defaultValue="metric"
+        android:key="unit" />
+    <ListPreference
+        android:title="@string/pref_orientation"
+        android:persistent="true"
+        android:entries="@array/pref_orientation_names"
+        android:entryValues="@array/pref_orientation_values"
+        android:defaultValue="auto"
+        android:key="orientation" />
+</PreferenceScreen>

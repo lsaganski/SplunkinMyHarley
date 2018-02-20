@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/losk/.android/build-cache/a7ad47976a49400b4ff90f94badf6dd0d578bb25/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/losk/Documents/Projects/Android/Geoff/SplunkinMyHarley/app/build/intermediates/pre-dexed/debug/classes_4e328956c90767884a42be901ede7e02adc73aff.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/losk/.android/build-cache/a7ad47976a49400b4ff90f94badf6dd0d578bb25/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/losk/Documents/Projects/Android/Geoff/SplunkinMyHarley/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4e328956c90767884a42be901ede7e02adc73aff/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/losk/.android/build-cache/0eab5ce2c84668ba5390b2bd1ca99fa4929a330f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/losk/Documents/Projects/Android/Geoff/SplunkinMyHarley/app/build/intermediates/pre-dexed/debug/classes_ff3e761a1e6409cf95a20bf9a3c8f6c0d32b9ec0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/losk/.android/build-cache/bf90858392d064c5003f75c98ef824a839ee2e77/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/losk/Documents/Projects/Android/Geoff/SplunkinMyHarley/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d54c157829b69580cf9e378566f99497a94fe36a/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/losk/.android/build-cache/bf90858392d064c5003f75c98ef824a839ee2e77/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Users/losk/Documents/Projects/Android/Geoff/SplunkinMyHarley/app/build/intermediates/pre-dexed/debug/classes_d54c157829b69580cf9e378566f99497a94fe36a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/losk/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/losk/Documents/Projects/Android/Geoff/SplunkinMyHarley/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_17ebfbac5cc42190dab5368a75eae9569f6f4913.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/losk/.android/build-cache/01ae9c38bbfce6bf4d49aec33b1c7b61c48bc61e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/losk/Documents/Projects/Android/Geoff/SplunkinMyHarley/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ceaa99011809c5ad96ce9b9062765b45b6471444/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/losk/.android/build-cache/f898b588146415b09102739e27932659b6acc00e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/losk/Documents/Projects/Android/Geoff/SplunkinMyHarley/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dcf179ff8ec0a2671e2d9a8b86c0e7e0494e55b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/losk/.android/build-cache/01ae9c38bbfce6bf4d49aec33b1c7b61c48bc61e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/losk/Documents/Projects/Android/Geoff/SplunkinMyHarley/app/build/intermediates/pre-dexed/debug/classes_ceaa99011809c5ad96ce9b9062765b45b6471444.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/losk/.android/build-cache/f898b588146415b09102739e27932659b6acc00e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/losk/Documents/Projects/Android/Geoff/SplunkinMyHarley/app/build/intermediates/pre-dexed/debug/classes_dcf179ff8ec0a2671e2d9a8b86c0e7e0494e55b2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/losk/Documents/Projects/Android/Geoff/SplunkinMyHarley/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="dae36171923dbae93a921d3cc07bc56172a70d55">
+        <dex dex="/Users/losk/Documents/Projects/Android/Geoff/SplunkinMyHarley/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_e481278e2884f8765146b4ce6fc6717dd11cc366/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/losk/.android/build-cache/7974a0c25a0e1ad3c917c6e9b074aa94ea97cdc6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/Users/losk/Documents/Projects/Android/Geoff/SplunkinMyHarley/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f6a490bb461e6e5f6c8d5843261fee8d2a59cb11/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/losk/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/losk/Documents/Projects/Android/Geoff/SplunkinMyHarley/app/build/intermediates/pre-dexed/debug/gson-2.3.1_810d733ee27023b704bc2fd3d2a7b958eb56f54c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/losk/.android/build-cache/9ec458c05f17415ced003ae1865a3db95570d3a0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/losk/Documents/Projects/Android/Geoff/SplunkinMyHarley/app/build/intermediates/pre-dexed/debug/classes_ab8df4f7cf79aeb5601741f40dd13787958ab996.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/losk/.android/build-cache/849e58099d60f683da873b715f69a985ef249b78/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/losk/Documents/Projects/Android/Geoff/SplunkinMyHarley/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5b76b1a5148ef0fa598db8046b7851b0c6612b12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/losk/.android/build-cache/36cdec895233f93af639b500b122751ff2ac06ac/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/losk/Documents/Projects/Android/Geoff/SplunkinMyHarley/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b0995924ad194ba2f5bbec67bc8006a930511c7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/losk/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/losk/Documents/Projects/Android/Geoff/SplunkinMyHarley/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3.1_810d733ee27023b704bc2fd3d2a7b958eb56f54c/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/losk/.android/build-cache/7974a0c25a0e1ad3c917c6e9b074aa94ea97cdc6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="/Users/losk/Documents/Projects/Android/Geoff/SplunkinMyHarley/app/build/intermediates/pre-dexed/debug/classes_f6a490bb461e6e5f6c8d5843261fee8d2a59cb11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/losk/.android/build-cache/849e58099d60f683da873b715f69a985ef249b78/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/losk/Documents/Projects/Android/Geoff/SplunkinMyHarley/app/build/intermediates/pre-dexed/debug/classes_5b76b1a5148ef0fa598db8046b7851b0c6612b12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/losk/.android/build-cache/36cdec895233f93af639b500b122751ff2ac06ac/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/losk/Documents/Projects/Android/Geoff/SplunkinMyHarley/app/build/intermediates/pre-dexed/debug/classes_b0995924ad194ba2f5bbec67bc8006a930511c7f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/losk/.android/build-cache/0eab5ce2c84668ba5390b2bd1ca99fa4929a330f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/losk/Documents/Projects/Android/Geoff/SplunkinMyHarley/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ff3e761a1e6409cf95a20bf9a3c8f6c0d32b9ec0/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/losk/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/losk/Documents/Projects/Android/Geoff/SplunkinMyHarley/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_6982fa264c7fa99d924592e029d841769d08f943.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/losk/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/losk/Documents/Projects/Android/Geoff/SplunkinMyHarley/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_6982fa264c7fa99d924592e029d841769d08f943/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/losk/.android/build-cache/aba57a6ddb433e6658385ca9133ea975f5fcf2ac/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/losk/Documents/Projects/Android/Geoff/SplunkinMyHarley/app/build/intermediates/pre-dexed/debug/classes_9d5cc1e4ef37ba17f4f4ad208da98e255f8ba21b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/losk/.android/build-cache/e0e797e588defe45e6d96a6387ecd5b153869033/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/losk/Documents/Projects/Android/Geoff/SplunkinMyHarley/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f8dd57bdff1deb60536bc8789b1eb39d0d40c393/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/losk/.android/build-cache/62ee9493fb3c0c669f69f623baac75eeafc95260/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/losk/Documents/Projects/Android/Geoff/SplunkinMyHarley/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c5192938ffe8fb95a3566726cd610fb504824327/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/losk/.android/build-cache/9ec458c05f17415ced003ae1865a3db95570d3a0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/losk/Documents/Projects/Android/Geoff/SplunkinMyHarley/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ab8df4f7cf79aeb5601741f40dd13787958ab996/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/losk/.android/build-cache/e0e797e588defe45e6d96a6387ecd5b153869033/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/losk/Documents/Projects/Android/Geoff/SplunkinMyHarley/app/build/intermediates/pre-dexed/debug/classes_f8dd57bdff1deb60536bc8789b1eb39d0d40c393.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/losk/Documents/Projects/Android/Geoff/SplunkinMyHarley/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/losk/Documents/Projects/Android/Geoff/SplunkinMyHarley/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f74330d5e231eb231ee156fce4ab72643ed031a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/losk/.android/build-cache/62ee9493fb3c0c669f69f623baac75eeafc95260/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/losk/Documents/Projects/Android/Geoff/SplunkinMyHarley/app/build/intermediates/pre-dexed/debug/classes_c5192938ffe8fb95a3566726cd610fb504824327.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/losk/.android/build-cache/c7386a6c5a6a6676c5ace9d54fef125d9c231a37/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/losk/Documents/Projects/Android/Geoff/SplunkinMyHarley/app/build/intermediates/pre-dexed/debug/classes_892715e1644216fff2ffe5042ecfafa31eb9ac02.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/losk/.android/build-cache/4c265d631abea1221d08f00faa40bf45c281f003/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/losk/Documents/Projects/Android/Geoff/SplunkinMyHarley/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_41aa646eba3be1311234f86e6259a5db3d282c98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/losk/.android/build-cache/c7386a6c5a6a6676c5ace9d54fef125d9c231a37/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/losk/Documents/Projects/Android/Geoff/SplunkinMyHarley/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_892715e1644216fff2ffe5042ecfafa31eb9ac02/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/losk/.android/build-cache/4c265d631abea1221d08f00faa40bf45c281f003/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/losk/Documents/Projects/Android/Geoff/SplunkinMyHarley/app/build/intermediates/pre-dexed/debug/classes_41aa646eba3be1311234f86e6259a5db3d282c98.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/losk/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/losk/Documents/Projects/Android/Geoff/SplunkinMyHarley/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_17ebfbac5cc42190dab5368a75eae9569f6f4913/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/losk/.android/build-cache/9d4f10e215de662e4fb1372aed41941e5f6828aa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/losk/Documents/Projects/Android/Geoff/SplunkinMyHarley/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_25660a57d719cbf204c89ade5bb256eef77c2b80/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/losk/.android/build-cache/aba57a6ddb433e6658385ca9133ea975f5fcf2ac/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Users/losk/Documents/Projects/Android/Geoff/SplunkinMyHarley/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9d5cc1e4ef37ba17f4f4ad208da98e255f8ba21b/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/losk/.android/build-cache/9d4f10e215de662e4fb1372aed41941e5f6828aa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/Users/losk/Documents/Projects/Android/Geoff/SplunkinMyHarley/app/build/intermediates/pre-dexed/debug/classes_25660a57d719cbf204c89ade5bb256eef77c2b80.jar" />
+    </item>
+
+</items>

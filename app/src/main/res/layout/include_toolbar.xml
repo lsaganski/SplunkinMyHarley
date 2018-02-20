@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="?attr/actionBarSize"
+    android:background="#31d20b"
+    >
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:title="@string/app_name">
+
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:src="@mipmap/ic_launcher"
+                    />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_marginTop="5dp"
+                    android:layout_marginBottom="5dp"
+                    android:gravity="center_vertical|end"
+                    >
+
+                        <ImageButton
+                            android:id="@+id/btnPlay"
+                            android:layout_width="50dp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/icon_play"
+                            android:scaleType="fitCenter"
+                            android:background="#00000000"
+                            android:layout_margin="5dp"
+                            />
+
+                        <ImageButton
+                            android:id="@+id/btnPrefs"
+                            android:layout_width="50dp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/icon_wrench"
+                            android:scaleType="fitCenter"
+                            android:background="#00000000"
+                            android:layout_margin="5dp"
+                            />
+
+                        <ImageButton
+                            android:id="@+id/btnReset"
+                            android:layout_width="50dp"
+                            android:layout_height="wrap_content"
+                            android:src="@drawable/icon_restart"
+                            android:scaleType="fitCenter"
+                            android:background="#00000000"
+                            android:layout_margin="5dp"
+                            android:visibility="gone"
+                            />
+
+                        <Button
+                            android:id="@+id/btnDevice"
+                            android:layout_width="wrap_content"
+                            android:layout_height="match_parent"
+                            android:text="Emulator"
+                            android:gravity="center_vertical"
+                            android:textColor="#000"
+                            android:textStyle="bold"
+                            />
+
+
+                        <ProgressBar
+                            android:id="@+id/progress"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginLeft="20dp"
+                            android:visibility="invisible"
+                            />
+
+                </LinearLayout>
+
+        </android.support.v7.widget.Toolbar>
+</LinearLayout>

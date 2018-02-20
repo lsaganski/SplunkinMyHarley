@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     HarleyDroid: Harley Davidson J1850 Data Analyser for Android.
+
+     Copyright (C) 2010-2012 Stelian Pop <stelian@popies.net>
+
+     This program is free software: you can redistribute it and/or modify
+     it under the terms of the GNU General Public License as published by
+     the Free Software Foundation, either version 3 of the License, or
+     (at your option) any later version.
+
+     This program is distributed in the hope that it will be useful,
+     but WITHOUT ANY WARRANTY; without even the implied warranty of
+     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+     GNU General Public License for more details.
+
+     You should have received a copy of the GNU General Public License
+     along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/graphic_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:orientation="vertical"
+        android:background="#000"
+        android:weightSum="2.0" >
+
+        <FrameLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_weight="1.0" >
+
+        </FrameLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/top_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:weightSum="8.0" >
+
+        <ImageView
+            android:id="@+id/turn_left"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1.0"
+            android:background="#80000000"
+            android:contentDescription="@string/turn_left"
+            android:padding="5dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/turn_left"
+            android:visibility="invisible" />
+
+        <FrameLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_weight="6.0" >
+
+        <ImageView
+            android:id="@+id/check_engine"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="#80000000"
+            android:contentDescription="@string/check_engine"
+            android:padding="5dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/check_engine"
+            android:visibility="invisible" />
+
+        </FrameLayout>
+
+        <ImageView
+            android:id="@+id/turn_right"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1.0"
+            android:background="#80000000"
+            android:contentDescription="@string/turn_right"
+            android:padding="5dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/turn_right"
+            android:visibility="invisible" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/bottom_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:orientation="horizontal"
+        android:weightSum="7.0" >
+
+        <FrameLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="left"
+            android:layout_weight="3.0" >
+
+        	<TextView
+        	    android:id="@+id/mileage_metric"
+        	    android:layout_width="wrap_content"
+        	    android:layout_height="wrap_content"
+        	    android:layout_gravity="left|bottom"
+        	    android:background="#80000000"
+        	    android:padding="5dip"
+        	    android:textColor="#9f00ff00"
+        	    android:textSize="25sp" />
+
+        	<TextView
+        	    android:id="@+id/mileage_imperial"
+        	    android:layout_width="wrap_content"
+        	    android:layout_height="wrap_content"
+        	    android:layout_gravity="left|bottom"
+        	    android:background="#80000000"
+        	    android:padding="5dip"
+        	    android:textColor="#9f00ff00"
+        	    android:textSize="25sp"
+        	    android:visibility="gone" />
+        </FrameLayout>
+
+        <FrameLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_weight="1.0" >
+
+        <ImageView
+            android:id="@+id/low_fuel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="#80000000"
+            android:contentDescription="@string/low_fuel"
+            android:padding="5dp"
+            android:scaleType="fitCenter"
+            android:src="@drawable/low_fuel"
+            android:visibility="invisible" />
+        </FrameLayout>
+
+        <TextView
+            android:id="@+id/gearneutral"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right|bottom"
+            android:layout_weight="3.0"
+            android:gravity="right|bottom"
+            android:padding="5dip"
+            android:textColor="#9f00ff00"
+            android:textSize="25sp" />
+    </LinearLayout>
+</merge>
